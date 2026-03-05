@@ -6,5 +6,4 @@ O foco no desenvolvimento foi na eficiência da pesquisa, otimização de memór
 Hash Table (Tabela de Dispersão) foi implementada do zero, focada na resolução de colisões e acesso rápido a dados.
 Árvore de Pesquisa Binária Auto-balanceada (Self-Balancing BST) foi implementada do zero com objetivo de garantir tempos de pesquisa otimizados (O(log n)), rebalanceando-se automaticamente após inserções e remoções.
 
-Linguagem usada foi em Java
-Ambiente usado foi no IDE, mas concretamente Intellij.
+Linguagem usada foi em Java. O ambiente usado foi o IDE, mas concretamente Intellij.
